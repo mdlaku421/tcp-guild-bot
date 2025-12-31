@@ -4,3 +4,4 @@ pyjwt
 pytz
 aiohttp
 pycryptodome
+protobuf-decoder

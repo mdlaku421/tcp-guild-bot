@@ -1,7 +1,6 @@
 requests
 psutil
-protobuf
-protobuf-decoder
-aiohttp
-pytz
 pyjwt
+pytz
+aiohttp
+pycryptodome

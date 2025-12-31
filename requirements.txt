@@ -3,3 +3,5 @@ psutil
 PyJWT
 pytz
 aiohttp
+protobuf
+protobuf-decoder

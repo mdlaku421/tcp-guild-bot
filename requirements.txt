@@ -1,7 +1,7 @@
 requests
 psutil
-PyJWT
-pytz
-aiohttp
 protobuf
 protobuf-decoder
+aiohttp
+pytz
+pyjwt

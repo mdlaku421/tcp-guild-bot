@@ -5,3 +5,4 @@ pytz
 aiohttp
 pycryptodome
 protobuf-decoder
+protobuf
